@@ -14,7 +14,7 @@
     "license": "MIT",
     "devDependencies": {
         "ethlint": "^1.2.4",
-        "mem": "^4.0.0"
+        "mem": "^9.0.1"
     },
     "repository": {
         "type": "git",
